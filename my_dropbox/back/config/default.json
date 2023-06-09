@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://admin:wwwwww@cluster0.x6dpnsk.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "D:\\dropbox\\back\\files"
+}
